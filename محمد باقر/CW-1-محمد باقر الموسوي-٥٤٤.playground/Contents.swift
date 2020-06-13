@@ -86,3 +86,26 @@ friendAge == age
 
 friendAge != age
 
+let bestfriends =
+    
+hobby1 == friendHobby1 ||
+    
+hobby1 == friendHobby2 ||
+    
+hobby2 == friendHobby1 ||
+    
+hobby2 == friendHobby2 ||
+    
+name == friendName
+
+let bestfriends1 =
+    
+hobby1 == friendHobby1 &&
+    
+hobby1 == friendHobby2 &&
+    
+hobby2 == friendHobby1 &&
+    
+hobby2 == friendHobby2 &&
+    
+name == friendName
