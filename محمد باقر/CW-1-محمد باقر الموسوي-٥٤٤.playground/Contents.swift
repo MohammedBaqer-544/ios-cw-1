@@ -1,6 +1,8 @@
 import UIKit
 
 var str = "Hello, playground"
+
+//Part1
  
 let name = "محمد باقر الموسوي"
 
@@ -19,6 +21,8 @@ print ("my age is", age )
 print ("my height is", height)
 
 print ("my hobbies are", hobby1, "و" ,hobby2)
+
+//Part2
 
 let friendName = "حسين محمد اشكناني"
 
